@@ -5,7 +5,7 @@
 			<li><strong>Phone:</strong> 817-468-1313</li>
 			<li><strong>Fax:</strong> (Please call to have fax turned on)</li>
 			<li><strong>Email:</strong> <a href="mailto:affordablerealty4u@aaaffordablerealty.com">affordablerealty4u@aaaffordablerealty.com</a></li>
-			<li><strong>Mailing Address:</strong> 413 Sussex Dr, Arlington, TX 76014</li>
+			<li><strong>Mailing Address:</strong>P.O. Box 1803, Arlington, TX 76004</li>
 		</ul>
 	</div>
 </div>
@@ -14,11 +14,10 @@
 </div>
 <!-- end #footer -->
 <div id="counter">
-  <script language="javascript" type="text/javascript">
-  <!-- 
+    <script language="javascript" type="text/javascript">
+    <!--
     stats(358563);
-  //--></script>
+    //--></script>
 </div>
 </body>
 </html>
-

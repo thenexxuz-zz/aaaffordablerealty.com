@@ -1,4 +1,3 @@
-
 /***************************************************************************
  phpTrafficA @soft.ZoneO.net
  Copyright (C) 2004-2008 ZoneO-soft, Butchu (email: "butchu" with the domain "zoneo.net")
@@ -33,4 +32,3 @@ var time=date.getTime();
 var resolution= screen.width + "x" + screen.height;
 document.writeln("<img src=\"http://williampenton.com/traffic/count.php?sid="+sid+"&p="+thispage+"&r="+referer+"&t="+time+"&res="+resolution+"\" alt=\"\" border=\"0\" />\n");
 }
-

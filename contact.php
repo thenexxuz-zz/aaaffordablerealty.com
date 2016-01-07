@@ -7,7 +7,7 @@
 			<div id="banner"><img src="images/dallas.jpg" alt="" /></div>
 			<div class="post">
 				<h2 class="title"><a href="#">Contact Eugene Havran</a></h2>
-				<p class="meta">Realtor/Broker/Owner</p>
+				<p class="meta">Realtor/Broker/Owner/VFW-Veteran</p>
 				<div class="entry">
 					<p><strong>Phone:</strong> 817-468-1313</p>
 					<p><strong>Fax:</strong> (Please call to have fax turned on)</p>
