@@ -25,7 +25,9 @@ Released   : 20090918
 	<div id="header">
 		<div id="logo">
 			<h1><a href="http://www.aaaffordablerealty.com/">AA Affordable Realty</a></h1>
-			<p><a href="mailto:eugenehav@yahoo.com">Eugene Havran (Broker) (VFW-Veteran)</a>
+			<p style="margin-top:-15px;font-size:18px;"><a style="font-weight:bold;" href="mailto:eugene.havran@gmail.com">Eugene Havran&nbsp;&nbsp;&nbsp;&nbsp;Emeritus Broker CEO</a>
+			<p style="margin-top:-25px;font-size:18px;"><a style="font-weight:bold;" href="mailto:eugene.havran@gmail.com">Honorary Life VFW Veteran Member</a>
+      <p style="margin-top:-5px;"><a style="font-size:17px;color:#f1f8ff;font-weight:bold;" href="https://openweathermap.org/city/4671240?APPID=c93b4a667c8c9d1d1eb941621f899bb8">&bull; Weather Service Information - See more &bull;</a></p>
 		</div>
 	</div>
 	<!-- end #header -->

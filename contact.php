@@ -10,9 +10,8 @@
 				<p class="meta">Realtor/Broker/Owner/VFW-Veteran</p>
 				<div class="entry">
 					<p><strong>Phone:</strong> 817-468-1313</p>
-					<p><strong>Fax:</strong> (Please call to have fax turned on)</p>
-					<p><strong>Email:</strong> <a href="mailto:affordablerealty4u@aaaffordablerealty.com">affordablerealty4u@aaaffordablerealty.com</a></p>
-					<p><strong>Mailing Address:</strong> 413 Sussex Dr, Arlington, TX 76014</p>
+					<p><strong>Mailing Address:</strong> 300 South Street, P.O. Box 1803, Arlington, TX 76004</p>
+					<p><strong>Email:</strong> <a href="mailto:eugene.havran@gmail.com">eugene.havran@gmail.com</a></p>
 				</div>
 			</div>
 			<div style="clear: both;">&nbsp;</div>
@@ -23,4 +22,3 @@
 </div>
 	<!-- end #page -->
 <?php include("inc/footer.inc.php"); ?>
-

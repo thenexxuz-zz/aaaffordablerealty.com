@@ -15,13 +15,13 @@
 				<h2 class="title">Pre-Mortgage Certification</h2>
 				<div class="entry">
 					<!--p><a href="premortgage.php?p=ola">Online Application</a></p-->
-					<p><a href="homes/Pre-Mortgage%20Certification.pdf">PDF for Print and/or FAX</a></p>
+					<p><a href="pdf/pdf.php?pre-mortgage">PDF for Print and/or FAX</a></p>
 				</div>
 			</div>
 			<div class="post">
 				<h2 class="title">Question Form</h2>
 				<div class="entry">
-					<p><a href="homes/question%20form.pdf">Question form.</a></p>
+					<p><a href="pdf/pdf.php?question-form">Question form.</a></p>
 				</div>
 			</div>
 			<div class="post">
@@ -45,7 +45,7 @@
 			<div class="post">
 				<h2 class="title">Testimonials</h2>
 				<div class="entry">
-					<p><a href="homes/Vanew111.pdf">Read testimonials.</a></p>
+					<p><a href="pdf/pdf.php?testimonials">Read testimonials.</a></p>
 				</div>
 			</div>
 			<div class="post">

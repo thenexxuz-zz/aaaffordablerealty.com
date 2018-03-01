@@ -3,9 +3,8 @@
 		<p>All information believed to be reliable, but is not guaranteed or warranted.</p>
 		<ul class="list">
 			<li><strong>Phone:</strong> 817-468-1313</li>
-			<li><strong>Fax:</strong> (Please call to have fax turned on)</li>
-			<li><strong>Email:</strong> <a href="mailto:affordablerealty4u@aaaffordablerealty.com">affordablerealty4u@aaaffordablerealty.com</a></li>
-			<li><strong>Mailing Address:</strong>P.O. Box 1803, Arlington, TX 76004</li>
+			<li><strong>Mailing Address: </strong>300 South Street, P.O. Box 1803, Arlington, TX 76004</li>
+			<li><strong>Email:</strong> <a href="mailto:eugene.havran@gmail.com">eugene.havran@gmail.com</a></li>
 		</ul>
 	</div>
 </div>

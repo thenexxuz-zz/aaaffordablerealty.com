@@ -79,7 +79,7 @@ h2 a {
 #logo {
 	float: left;
 	margin: 0;
-	padding: 115px 0px 0px 50px;
+	padding: 55px 0 0 20px;
 	color: #000000;
 }
 
@@ -104,13 +104,13 @@ h2 a {
 	padding: 26px 0 0 2px;
 	font: normal 19px Georgia, "Times New Roman", Times, serif;
 	color: #C5E8FF;
-} 
+}
 
 #logo a {
 	border: none;
 	background: none;
 	text-decoration: none;
-	color: #C5E8FF;
+	color: #def2ff;
 }
 
 /* Search */
