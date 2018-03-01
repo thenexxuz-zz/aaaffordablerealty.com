@@ -1,0 +1,16 @@
+<?php
+
+global $conf;
+
+?>
+<div id="header" class="clearfix">
+
+    <div id="logo"><strong><?php echo strip_tags($conf['title']) ?></strong></div>
+
+    <div id="nav">
+        <?php
+            tpl_include_page(tpl_getConf('menuID'));
+        ?>
+    </div>
+
+</div>
