@@ -67,9 +67,9 @@ body {
 }
 
 #header #logo h1 a {
-	font-size: 31px;
+    font-size: 39px;
     position: absolute;
-    top: 0;
+    top: -5px;
 }
 
 #header #logo p {
