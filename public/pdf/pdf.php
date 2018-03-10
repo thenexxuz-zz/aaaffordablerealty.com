@@ -78,7 +78,7 @@ if (array_key_exists('city', $_GET)) {
   $pdf->MultiCell(0, 5, 'ZIP          ADDRESS          MINIMUM PRICE          DESCRIP          YB          ASQF          MAPSCO', 0, 'J');
 
   $pdf->SetFont('Arial','',12);
-  $handle = fopen("./listings.txt", "r");
+  $handle = fopen("../data/pages/listings.txt", "r");
   if ($handle) {
     $readingCityData = false;
     while (($line = fgets($handle)) !== false) {
