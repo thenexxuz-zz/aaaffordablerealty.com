@@ -52,12 +52,12 @@ if (array_key_exists('city', $_GET)) {
   }
   $pdf->MultiCell(0, 5, $p1, 0, 'J');
 
-  $p2 = date("m/d/Y") . ' AA Affordable Realty (AAA Affordable Arlington DFW Metro Realty),' . PHP_EOL . '(AHUD/VA approved authorized over 40 years)';
+  $p2 = date("m/d/Y") . ' AA Affordable Realty (AAA Affordable Arlington DFW Metro Realty),' . PHP_EOL . '(A HUD/VA approved authorized for over 40 years)';
   $pdf->SetFont('Times','B',12);
   $pdf->SetY($pdf->GetY() + 5);
   $pdf->MultiCell(0, 5, $p2, 0, 'J');
 
-  $p3 = 'Eugene Havran, Owner-Broker has earned from the National Board of Realtors Associaton for exceeding over 42 continuous years for all phases of Real Estate, the status: "REALTOR EMERITUS".';
+  $p3 = 'Eugene Havran, Owner-Broker has earned from the National Board of Realtors Association for exceeding over 42 continuous years for all phases of Real Estate, the status: "REALTOR EMERITUS".';
   $pdf->SetFont('Times','B',12);
   $pdf->SetY($pdf->GetY() + 5);
   $pdf->MultiCell(0, 5, $p3, 0, 'J');
@@ -75,7 +75,7 @@ if (array_key_exists('city', $_GET)) {
   $pdf->SetFont('Times','BU',12);
   $pdf->MultiCell(0, 5, $city . ' addresses');
   $pdf->SetFont('Arial','BU',12);
-  $pdf->MultiCell(0, 5, 'ZIP          ADDRESS          MINIMUM PRICE          DESCRIP          YB          ASQF          MAPSCO', 0, 'J');
+  $pdf->MultiCell(0, 5, 'ZIP          ADDRESS          MINIMUM PRICE          DESCRIP          YB          ASQF', 0, 'J');
 
   $pdf->SetFont('Arial','',12);
   $handle = fopen("../data/pages/listings.txt", "r");
@@ -102,9 +102,9 @@ if (array_key_exists('city', $_GET)) {
 
   $paragraphs[] = 'This list is for the personal use by the receiver from AA Affordable Arlington Realty (ADFW Metro Realty) for the use as a Broker to client use for considering and if interested to place a contract on any address to be written and submitted by an AA Affordable Realty Buyers Broker for buyers submitting contracts on addresses from this list and all lists by this Realty. No address may be used for any other purpose without written consent. There is no co-broker agent fee for any other person. Local, state and federal laws apply on any address on this list or any list that these addresses would appear from this list.';
 
-  $paragraphs[] = 'ASK FOR AN UPDATED LIST of a city, please e-mail or phone request for the most current address list meeting your pre qualifcation to be sent to you after completing the Question Form found from under the: Forms, Tips & Info (Aheading button).';
+  $paragraphs[] = 'ASK FOR AN UPDATED LIST of a city, please e-mail or phone request for the most current address list meeting your pre qualifications to be sent to you after completing the Question Form found from under the: Forms, Tips & Info (A heading button).';
 
-  $paragraphs[] = 'AA Affordable Realty offers a FREE Realty consulting first session for buyers, sellers and also an exclusive one for all renters. Use this frst Free session that has additional saving Free money extra to any transaction explained for your information. A Free session may be given optional over the phone by appointment.';
+  $paragraphs[] = 'AA Affordable Realty offers a FREE Realty consulting first session for buyers, sellers and also an exclusive one for all renters. Use this first Free session that has additional saving Free money extra to any transaction explained for your information. A Free session may be given optional over the phone by appointment.';
 
   $bottomParagraph = 'Information accuracy reproduced as received';
 
@@ -161,7 +161,7 @@ if (array_key_exists('city', $_GET)) {
   $pdf->SetFont('Times','B',12);
   $pdf->SetY($pdf->GetY() + 5);
   $pdf->MultiCell(0, 5, date('m/d/Y') . ' AA Affordable Realty (aka: AA Affordable Arlington DFW Metro Realty).' . PHP_EOL .
-    '"Since 1991 experienced in service to the DFW Metro Plex, North, East & all of Texas"', 0, 'J');
+    '"Since 1991 experienced in service to the DFW Metroplex, North, East & all of Texas"', 0, 'J');
 
   $pdf->SetFont('Times','B',12);
   $pdf->SetY($pdf->GetY() + 5);
@@ -249,7 +249,7 @@ if (array_key_exists('city', $_GET)) {
 
   $pdf->SetFont('Times','B',10);
   $pdf->SetY($pdf->GetY() + 2);
-  $pdf->MultiCell(0, 5, 'THIS IS THE FIRST NECESSARY STEP TO BECOME ELIGIBLE TO SUBMIT A CONTRACT AND ALSO WILL GUIDE THE BUYER IN THE RIGHT PRICE RANGE OF ONLY ADDRESSES OFFERED WITHIN THAT PRICE RANGE. THERE IS NO COST OR OBLIGATION BY COMPLETING THE NECESSARY BLANKS OF THE CONFIDENTAL FORM USED TO GET THE CERTIFICATION.', 0, 'J');
+  $pdf->MultiCell(0, 5, 'THIS IS THE FIRST NECESSARY STEP TO BECOME ELIGIBLE TO SUBMIT A CONTRACT AND ALSO WILL GUIDE THE BUYER IN THE RIGHT PRICE RANGE OF ONLY ADDRESSES OFFERED WITHIN THAT PRICE RANGE. THERE IS NO COST OR OBLIGATION BY COMPLETING THE NECESSARY BLANKS OF THE CONFIDENTIAL FORM USED TO GET THE CERTIFICATION.', 0, 'J');
 
   $pdf->SetFont('Times','BU',10);
   $pdf->SetY($pdf->GetY() + 2);
@@ -336,7 +336,7 @@ if (array_key_exists('city', $_GET)) {
   $pdf->MultiCell(0, 5,
     'THE ABOVE INFORMATION IS TRUE & CORRECT TO THE BEST OF MY/OUR KNOWLEDGE' . PHP_EOL .
     '' . PHP_EOL .
-    'I HEREBY GIVE AFFORDABLE REALTY AND ITS GOVERNMENT AGENTCIES ASSIGNS PERMISSION TO REVIEW MY CREDIT WITH A CONSUMER CREDIT THAT IS CONFIDENTAL AND WILL NOT BE RELEASED FOR ANY OTHER USE.',
+    'I HEREBY GIVE AFFORDABLE REALTY AND ITS GOVERNMENT AGENCIES ASSIGNS PERMISSION TO REVIEW MY CREDIT WITH A CONSUMER CREDIT THAT IS CONFIDENTIAL AND WILL NOT BE RELEASED FOR ANY OTHER USE.',
     0, 'J');
   $pdf->SetFont('Courier','',8);
   $pdf->SetY($pdf->GetY() + 3);
