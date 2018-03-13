@@ -104,7 +104,7 @@ if (array_key_exists('city', $_GET)) {
 
   $paragraphs[] = 'ASK FOR AN UPDATED LIST of a city, please e-mail or phone request for the most current address list meeting your pre qualifcation to be sent to you after completing the Question Form found from under the: Forms, Tips & Info (Aheading button).';
 
-  $paragraphs[] = 'AA Affordable Realty offers a FREE Realty consulting frst session for buyers, sellers and also an exclusive one for all renters. Use this frst Free session that has additional saving Free money extra to any transaction explained for your information. A Free session may be given optional over the phone by appointment.';
+  $paragraphs[] = 'AA Affordable Realty offers a FREE Realty consulting first session for buyers, sellers and also an exclusive one for all renters. Use this frst Free session that has additional saving Free money extra to any transaction explained for your information. A Free session may be given optional over the phone by appointment.';
 
   $bottomParagraph = 'Information accuracy reproduced as received';
 
