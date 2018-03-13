@@ -15,6 +15,7 @@ Garland, Mesquite, Rowlett, Rockwell and Area
 Ellis County Area
 =====
 Investor Tarrant Co. Area
+75645     323 Calvert Ln     $76,000                          3/2                  1960           1534
 =====
 Investor Dallas Co. Area
 =====

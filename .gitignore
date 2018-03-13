@@ -1,1 +1,3 @@
 /public/data/cache/*
+/public/data/attic/*
+/public/data/meta/*
