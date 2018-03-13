@@ -1,12 +1,3 @@
-1519874220	10.10.22.163	C	home	eugene	created		2649
-1519874242	10.10.22.163	E	home	eugene			-2
-1519874557	10.10.22.163	C	menu	eugene	created		8
-1519874671	10.10.22.163	E	menu	eugene			40
-1519874760	10.10.22.163	E	menu	eugene			-7
-1519874917	10.10.22.163	E	menu	eugene			62
-1519875883	10.10.22.163	C	about	eugene	created		3155
-1519875962	10.10.22.163	C	real_estate_consulting	eugene	created		106
-1519876203	10.10.22.163	E	real_estate_consulting	eugene			233
 1519876278	10.10.22.163	C	contact	eugene	created		216
 1519876293	10.10.22.163	E	contact	eugene			-2
 1519876305	10.10.22.163	E	contact	eugene			3
@@ -23,3 +14,7 @@
 1519879180	10.10.22.163	E	homes	eugene			813
 1519881871	10.10.22.163	C	header	eugene	created		279
 1519881936	10.10.22.163	D	header	eugene	removed		-279
+1520640161	98.6.134.123	C	listings	eugene	created		334
+1520640239	98.6.134.123	E	listings	eugene			15
+1520641401	99.70.224.135	E	listings	eugene			2
+1520641510	98.6.134.123	E	listings	eugene			-17
